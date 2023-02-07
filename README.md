@@ -2,7 +2,7 @@
 
 # Vagrant Project
 
-Author: **BASIL BASSEY**
+Author: **BASIL BASSEY** <br>
 Date: *Feb 7, 2023*
 
 ## Learning Objectives
